@@ -1,16 +1,33 @@
-# expense_tracker
+## Flutter Expense Tracker App
 
-A new Flutter project.
+## Expense Tracker App
 
-## Getting Started
+This is an Expense Tracker App that helps users manage their finances effortlessly. It's a convenient and intuitive way to keep track of expenses, set budgets, and gain insights into your spending habits.
 
-This project is a starting point for a Flutter application.
+## Features:
 
-A few resources to get you started if this is your first Flutter project:
+- Expense Entry 
+- Expense Category
+- Budget Management
+- Cross Platform
+  
+## Screenshots:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![image](https://github.com/godotengine/godot/assets/100126332/f6c66c74-3f3c-4b9b-9d0c-76839b464dab)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## How to Use:
+
+- Clone this repository to your local machine using git clone https://github.com/Ayush40/Flutter_QuizApp
+- Ensure you have Flutter installed on your machine.
+- Open the project in your preferred code editor or IDE.
+- Run the app on an emulator or physical device using flutter run.
+
+## Contributing:
+
+Contributions are welcome! If you find any issues or have ideas to enhance the app, feel free to open an issue or submit a pull request.
+
+## Disclaimer:
+
+This app is intended for recreational purposes and does not encourage or support gambling in any form. The results of the dice rolling are random and for entertainment purposes only.
+
+Enjoy the Flutter quiz App!
